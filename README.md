@@ -9,7 +9,7 @@ The floating fab in the bottom corner of the home or the price below the icon ca
 
 The auctioneer can choose pools and change the player up for auction .
 
-Auctioneer can start aur pause bidding using the options provided. 
+Auctioneer can start or pause bidding using the options provided. 
 
 Alerts are displayed showing to whom the player is sold. 
 
